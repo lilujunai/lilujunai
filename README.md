@@ -7,7 +7,7 @@
 
 ### 🌱 Interest
 
-- **Neural network computing and efficient optimization**
+- **Efficient neural network computing and optimization**
   - Lightweight model design and search
   - Knowledge distillation and transfer learning
   - Model compression includes quantization and pruning
