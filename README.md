@@ -2,7 +2,7 @@
 
 ### 🔭 Career
 
-- Ph.D. in progress, in Pattern Recognition and Intelligent Systems,Institute of Automation, Chinese Academy of Sciences**(CASIA)**, Beijing, China, expected to graduate in 2024.
+- Ph.D. in progress, in Pattern Recognition and Intelligent Systems,Institute of Automation, Chinese Academy of Sciences **(CASIA)**, Beijing, China, expected to graduate in 2024.
 - Received the B.S. degrees, in Electronic Information Engineering, Central South University, Changsha, China, in 2019.
 
 ### 🌱 Interest
